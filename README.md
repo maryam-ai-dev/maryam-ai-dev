@@ -58,7 +58,7 @@ Community-focused app designed for connection and identity.
 
 ## 📌 Currently Building
 
-- Identity-aware AI systems (Galaxie — private)
+- Identity-aware AI systems (Galaxie - private)
 - AI-powered learning tools (Traced)
 
 ---
