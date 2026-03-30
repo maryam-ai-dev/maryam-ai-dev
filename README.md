@@ -58,7 +58,7 @@ Social app designed for helping muslim reverts find friends and support in the m
 
 ## 📌 Currently Building
 
-- Identity-centred social platform with Identity-aware AI systems (Galaxie - private)
+- Identity-centred social platform with Identity-aware AI system (Galaxie - private)
 - AI-powered learning tools (Traced)
 
 ---
