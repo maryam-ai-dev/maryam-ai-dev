@@ -12,7 +12,7 @@ My work focuses on:
 
 ## 🚀 Featured Projects
 
-### 🧠 Traced — AI Medical Learning Simulator
+### 🧠 Traced - AI Medical Learning Simulator
 AI-powered clinical reasoning system using RAG over biomedical literature.
 
 - Hybrid retrieval (BM25 + embeddings)
@@ -34,7 +34,7 @@ System for preserving user identity in AI-assisted text generation.
 
 ---
 
-### 🌍 Revert — Social Platform for Reverts
+### 🌍 Revert - Social Platform for Reverts
 Community-focused app designed for connection and identity.
 
 - Full-stack architecture
@@ -58,7 +58,7 @@ Community-focused app designed for connection and identity.
 
 ## 📌 Currently Building
 
-- Identity-aware AI systems (Galaxie — private)
+- Identity-aware AI systems (Galaxie - private)
 - AI-powered learning tools (Traced)
 
 ---
