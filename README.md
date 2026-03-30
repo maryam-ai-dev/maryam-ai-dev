@@ -35,7 +35,7 @@ System for preserving user identity in AI-assisted text generation.
 ---
 
 ### 🌍 Revert - Social Platform for Reverts
-Community-focused app designed for connection and identity.
+Social app designed for helping muslim reverts find friends and support in the muslim community
 
 - Full-stack architecture
 - Authentication, content flows, and user interaction
@@ -58,7 +58,7 @@ Community-focused app designed for connection and identity.
 
 ## 📌 Currently Building
 
-- Identity-aware AI systems (Galaxie - private)
+- Identity-centred social platform with Identity-aware AI systems (Galaxie - private)
 - AI-powered learning tools (Traced)
 
 ---
