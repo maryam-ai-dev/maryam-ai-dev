@@ -42,20 +42,9 @@ An identity-first social platform built around the belief that you are the centr
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=c9608a)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9608a)
 ![pgvector](https://img.shields.io/badge/pgvector-0d1117?style=for-the-badge&logo=postgresql&logoColor=c9608a)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=c9608a)
 ![Firebase](https://img.shields.io/badge/Firebase_Auth-0d1117?style=for-the-badge&logo=firebase&logoColor=c9608a)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-0d1117?style=for-the-badge&logo=cloudflare&logoColor=c9608a)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maryam-ai-dev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9608a&icon_color=c9608a&text_color=8b949e&rank_icon=github&cache_seconds=1800)](https://github.com/maryam-ai-dev)
-&nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maryam-ai-dev&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9608a&text_color=8b949e&langs_count=6&cache_seconds=1800)](https://github.com/maryam-ai-dev)
-
-</div>
 
 ---
 
