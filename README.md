@@ -1,8 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=C9608A&center=true&vCenter=true&width=500&height=70&lines=hi%2C+i'm+maryam+%F0%9F%91%8B;AI+engineer+%2B+builder.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=C9608A&center=true&vCenter=true&width=500&height=70&lines=hi%2C+i'm+maryam+%F0%9F%91%8B;AI+systems+engineer+%2B+builder.)](https://git.io/typing-svg)
 
 **AI-focused software engineer** building at the intersection of NLP, identity, and real-world applications.
+
+Building distributed systems with real-time interaction, LLM pipelines, and identity-aware AI.
 
 📍 London, UK &nbsp;·&nbsp; 🎓 Greenwich CS → KCL MSc AI, Sept 2026 &nbsp;·&nbsp; 💼 Open to AI / fullstack roles
 
@@ -13,7 +15,7 @@
 ### 🚀 Featured Projects
 
 **🧠 Traced - AI Medical Learning Simulator**
-AI-powered clinical reasoning system using RAG over biomedical literature. Hybrid retrieval (BM25 + embeddings), structured extraction with Pydantic, rule-based simulation engine for disease progression.
+AI-powered clinical reasoning system using RAG over biomedical literature, designed to model disease mechanisms and support structured diagnostic reasoning.
 `rag` `bm25` `pydantic` `fastapi` `python`
 
 **✍️ AI Writing Style Preservation**
@@ -21,14 +23,12 @@ System for preserving user identity in AI-assisted text generation. Stylometric 
 `spacy` `sbert` `gpt-4o-mini` `spring boot` `java`
 
 **🌍 Revert - Social Platform for Muslim Reverts**
-A social space built specifically for Muslim reverts to find community, share their journey, and connect with others who get it. Full-stack with authentication, content flows, and real user interaction.
+A community-focused social platform for Muslim reverts, built with full-stack architecture including authentication, content flows, and real-time user interaction.
 `flutter` `fastapi` `postgresql` `dart`
 
 **🔒 Galaxie - Identity-First Social Platform** *(private)*
-An identity-first social platform built around the belief that you are the centre. Your communication style, your voice, your world. Features like stylometric fingerprinting, world-space matching, and multi-layered reactions are all built around one idea: presence over performance.
+An identity-first social platform that preserves your voice through stylometric modelling, world-space matching, and a personalised interaction layer — built around the user, not engagement metrics.
 `nlp` `stylometry` `flutter` `spring boot` `pgvector`
-
----
 
 ### 🛠 Tech Stack
 
