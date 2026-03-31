@@ -27,7 +27,7 @@ A community-focused social platform for Muslim reverts, built with full-stack ar
 `flutter` `fastapi` `postgresql` `dart`
 
 **🔒 Galaxie - Identity-First Social Platform** *(private)*
-An identity-first social platform that preserves your voice through stylometric modelling, world-space matching, and a personalised interaction layer — built around the user, not engagement metrics.
+An identity-first social platform that preserves your voice through stylometric modelling, world-space matching, and a personalised interaction layer - built around the user.
 `nlp` `stylometry` `flutter` `spring boot` `pgvector`
 
 ### 🛠 Tech Stack
