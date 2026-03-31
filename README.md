@@ -7,8 +7,7 @@
 ---
 
 > *how does identity survive AI assistance?*
-> *when a system helps you write, think, or connect — are you still the author?*
-> *that question is behind most of what i build.*
+> *when a system helps you write, think, or connect - are you still the author?*
 
 ---
 
