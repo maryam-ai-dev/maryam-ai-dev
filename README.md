@@ -12,33 +12,27 @@
 
 ### 🚀 Featured Projects
 
-**🧠 Traced — AI Medical Learning Simulator**
-AI-powered clinical reasoning system using RAG over biomedical literature. Hybrid retrieval (BM25 + dense embeddings), structured case extraction with Pydantic, and a rule-based disease progression simulation engine that models symptom evolution over time.
-
+**🧠 Traced - AI Medical Learning Simulator**
+Clinical reasoning system using RAG over biomedical literature. Hybrid retrieval, structured case extraction, and a rule-based disease progression engine.
 `rag` `bm25` `pydantic` `fastapi` `python`
 
 ---
 
-**✍️ AI Writing Style Preservation** *(FYP dissertation)*
-End-to-end system for preserving individual voice in AI-assisted text generation. Extracts a 47-feature stylometric vector across 7 tiers (character, surface, lexical, syntactic, psycholinguistic, character n-gram, function word bigram) and maintains a persistent per-user StyleVector updated via Exponential Moving Average. Context-aware prompt construction separates voice patterns from register - informal markers are gated behind a formality classifier using sentence fragment ratio and question mark density as discriminators. Evaluated using scale-normalised cosine similarity to prevent Yule's K domination.
-
+**✍️ AI Writing Style Preservation** *(FYP)*
+Extracts a 47-feature stylometric vector across 7 tiers to preserve individual voice in AI-assisted generation. Context-aware prompt construction, EMA-updated StyleVectors, evaluated via cosine similarity.
 `spacy` `sbert` `gpt-4o-mini` `spring-boot` `java` `postgresql` `flutter`
 
 ---
 
 **🌍 Revert - Community Platform for Muslim Reverts**
-Full-stack social platform built specifically for Muslim reverts to find community, share their journey, and connect with people who understand the experience. Backend uses FastAPI with async PostgreSQL via SQLAlchemy, JWT auth with refresh token rotation, and a journey-based compatibility scoring system for buddy matching — reusing a scoring pipeline originally built for personality-based matching in Galaxie, adapted to track spiritual milestones and shared revert experiences rather than Big Five traits. Flutter frontend with feed, DM, and onboarding flows.
-
+Full-stack social platform for Muslim reverts to find community and connect. Journey-based compatibility scoring for buddy matching, JWT auth with refresh token rotation, Flutter frontend with feed, DM, and onboarding flows.
 `flutter` `fastapi` `postgresql` `sqlalchemy` `jwt` `dart`
 
 ---
 
 **🔒 Galaxie - Identity-First Social Platform** *(private)*
-An identity-first social platform built around the belief that you are the centre. The core is a stylometric voice fingerprinting engine: a 47-feature NLP pipeline extracts a per-user StyleVector from natural writing across chat, notebook, and post surfaces. Profiles are updated continuously using EMA without storing raw text, keeping the system GDPR-compliant by design. World-space matching uses a cosine similarity layer over StyleVectors stored in pgvector to surface users with complementary linguistic identities rather than shared interests. The reaction system is polymorphic - a single infrastructure handles reactions across messages, posts, and journal entries via a target-type discriminator column. DM infrastructure uses cursor-based pagination over an append-only message log. Backend is Domain-Driven Design with a pure Java domain layer, Spring Boot application layer, and infrastructure adapters behind port interfaces so the generation model and NLP service are swappable without touching business logic.
-
-`nlp` `stylometry` `ema` `pgvector` `flutter` `spring-boot` `fastapi` `postgresql` `ddd`
-
----
+Identity-first social platform where a 47-feature NLP pipeline builds per-user StyleVectors for voice-aware generation and world-space matching. Polymorphic reaction system, cursor-based DM pagination, DDD backend with swappable NLP and generation adapters.
+`nlp` `stylometry` `pgvector` `flutter` `spring-boot` `fastapi` `postgresql` `ddd`
 
 ### 🛠 Tech Stack
 
