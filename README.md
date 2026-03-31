@@ -25,7 +25,7 @@ A social space built specifically for Muslim reverts to find community, share th
 `flutter` `fastapi` `postgresql` `dart`
 
 **🔒 Galaxie - Identity-First Social Platform** *(private)*
-AI writing assistant that preserves your voice. Style fingerprinting so you're still you, even when AI helps you write.
+An identity-first social platform built around the belief that you are the centre. Your communication style, your voice, your world. Features like stylometric fingerprinting, world-space matching, and multi-layered reactions are all built around one idea: presence over performance.
 `nlp` `stylometry` `flutter` `spring boot` `pgvector`
 
 ---
