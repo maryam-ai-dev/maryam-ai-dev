@@ -24,7 +24,7 @@ Extracts a 47-feature stylometric vector across 7 tiers to preserve individual v
 
 ---
 
-**🌍 Revert - Community Platform for Muslim Reverts**
+**🌍 Revert - Community Platform for Reverts**
 Full-stack social platform for Muslim reverts to find community and connect. Journey-based compatibility scoring for buddy matching, JWT auth with refresh token rotation, Flutter frontend with feed, DM, and onboarding flows.
 `flutter` `fastapi` `postgresql` `sqlalchemy` `jwt` `dart`
 
