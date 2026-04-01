@@ -18,7 +18,7 @@ Clinical reasoning system using RAG over biomedical literature. Hybrid retrieval
 
 ---
 
-**✍️ AI Writing Style Preservation** *(FYP)*
+**✍️ Stylometric Voice Engine** *(FYP)*
 Extracts a 47-feature stylometric vector across 7 tiers to preserve individual voice in AI-assisted generation. Context-aware prompt construction, EMA-updated StyleVectors, evaluated via cosine similarity.
 `spacy` `sbert` `gpt-4o-mini` `spring-boot` `java` `postgresql` `flutter`
 
