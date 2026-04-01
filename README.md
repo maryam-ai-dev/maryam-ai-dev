@@ -4,7 +4,7 @@
 
 **AI-focused software engineer** building at the intersection of NLP, identity, and real-world applications.
 
-📍 London, UK &nbsp;·&nbsp; 🎓 Greenwich CS → KCL MSc AI, Sept 2026 &nbsp;·&nbsp; 💼 Open to AI / fullstack roles
+📍 London, UK &nbsp;·&nbsp; 🎓 KCL MSc AI, Sept 2026 &nbsp;·&nbsp; 💼 Open to AI / fullstack roles
 
 </div>
 
