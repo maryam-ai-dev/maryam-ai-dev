@@ -24,7 +24,7 @@ Extracts a 47-feature stylometric vector across 7 tiers to preserve individual v
 
 ---
 
-** Autonomous Reatil Assistant
+**Autonomous Retail Assistant**
 
 ---
 
