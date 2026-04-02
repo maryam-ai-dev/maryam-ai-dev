@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=C9608A&center=true&vCenter=true&width=500&height=70&lines=hi%2C+i'm+maryam+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-**AI-focused software engineer** building at the intersection of NLP, identity, and real-world applications.
-
 📍 London, UK &nbsp;·&nbsp; 🎓 KCL MSc AI, Sept 2026 &nbsp;·&nbsp; 💼 Open to AI / fullstack roles
 
 </div>
