@@ -22,7 +22,3 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-0d1117?style=for-the-badge&logo=cloudflare&logoColor=c9608a)
 
 ---
-
-### 📫 Contact
-
-[maryam18yousuf@gmail.com](mailto:maryam18yousuf@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/maryam-yousuf)
