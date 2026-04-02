@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### My Favourite Projects
 
 **🧠 Traced - AI Medical Learning Simulator**
 Clinical reasoning system using RAG over biomedical literature. Hybrid retrieval, structured case extraction, and a rule-based disease progression engine.
