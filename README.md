@@ -4,31 +4,6 @@
 
 📍 London, UK &nbsp;·&nbsp; 🎓 KCL MSc AI, Sept 2026 &nbsp;·&nbsp; 💼 Open to AI / fullstack roles
 
-</div>
-
----
-
-### My Favourite Projects
-
-**🧠 Traced - AI Medical Learning Simulator**
-Clinical reasoning system using RAG over biomedical literature. Hybrid retrieval, structured case extraction, and a rule-based disease progression engine.
-`rag` `bm25` `pydantic` `fastapi` `python`
-
----
-
-**✍️ Stylometric Voice Engine** *(FYP)*
-Extracts a 47-feature stylometric vector across 7 tiers to preserve individual voice in AI-assisted generation. Context-aware prompt construction, EMA-updated StyleVectors, evaluated via cosine similarity.
-`spacy` `sbert` `gpt-4o-mini` `spring-boot` `java` `postgresql` `flutter`
-
----
-
-**Autonomous Retail Assistant**
-
----
-
-**🔒 Galaxie - Identity-First Social Platform** *(private)*
-Identity-first social platform where a NLP pipeline builds per-user StyleVectors for voice-aware generation and world-space matching. Polymorphic reaction system, cursor-based DM pagination, DDD backend with swappable NLP and generation adapters.
-`nlp` `stylometry` `pgvector` `flutter` `spring-boot` `fastapi` `postgresql` `ddd`
 
 ### 🛠 Tech Stack
 
