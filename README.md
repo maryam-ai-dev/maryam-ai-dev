@@ -31,7 +31,7 @@ Full-stack social platform for reverts to find community and connect. Journey-ba
 ---
 
 **🔒 Galaxie - Identity-First Social Platform** *(private)*
-Identity-first social platform where a 47-feature NLP pipeline builds per-user StyleVectors for voice-aware generation and world-space matching. Polymorphic reaction system, cursor-based DM pagination, DDD backend with swappable NLP and generation adapters.
+Identity-first social platform where a NLP pipeline builds per-user StyleVectors for voice-aware generation and world-space matching. Polymorphic reaction system, cursor-based DM pagination, DDD backend with swappable NLP and generation adapters.
 `nlp` `stylometry` `pgvector` `flutter` `spring-boot` `fastapi` `postgresql` `ddd`
 
 ### 🛠 Tech Stack
