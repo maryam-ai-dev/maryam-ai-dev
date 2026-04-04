@@ -29,5 +29,5 @@
 ---
 
 <div align="center">
-<a href="https://linkedin.com/in/yourprofile">builder's diary →</a>
+<a href="https://linkedin.com/in/maryam-yousuf">builder's diary →</a>
 </div>
