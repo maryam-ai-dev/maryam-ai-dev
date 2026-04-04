@@ -14,18 +14,6 @@
 
 </div>
 
----
-
-### now
-| | |
-|---|---|
-| 🔨 **building** | Galaxie · Aisleon |
-| ✍️ **writing** | [builder's diary](https://linkedin.com/in/yourprofile) on LinkedIn |
-| 🧠 **interests** | NLP · applied AI · mobile |
-| 🎓 **next** | MSc AI @ KCL, Sept 2026 |
-
----
-
 ### stack
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffffff)
 ![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ffffff)
