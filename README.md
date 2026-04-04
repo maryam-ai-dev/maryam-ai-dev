@@ -4,14 +4,6 @@
 
 `cs grad` &nbsp;·&nbsp; `building AI products` &nbsp;·&nbsp; `msc ai @ kcl sept 2026` &nbsp;·&nbsp; `london`
 
-<br>
-
-<img src="london.jpg" width="100%" />
-
-*london, from a distance.*
-
-<br>
-
 </div>
 
 ### stack
