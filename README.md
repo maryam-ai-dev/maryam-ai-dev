@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=hi%2C+i'm+maryam+%F0%9F%91%8B)]
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=hi%2C+i'm+maryam)](https://git.io/typing-svg)
+
 `building AI products` &nbsp;·&nbsp; `msc ai @ kcl sept 2026` &nbsp;·&nbsp; `london`
 
 </div>
