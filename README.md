@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&height=70&lines=hi%2C+i%27m+maryam+%3A%29)](https://git.io/typing-svg)
 
-`building AI products` &nbsp;·&nbsp; `msc ai @ kcl sept 2026` &nbsp;·&nbsp; `london`
+`building 5 startups solo` &nbsp;·&nbsp; `msc ai @ kcl sept 2026` &nbsp;·&nbsp; `london`
+
+[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)](https://buymeacoffee.com/maryamyousuf)
 
 </div>
 
