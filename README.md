@@ -4,8 +4,6 @@
 
 `building AI products` &nbsp;·&nbsp; `msc ai @ kcl sept 2026` &nbsp;·&nbsp; `london`
 
-[![Buy Me A Coffee](https://img.shields.io/badge/buy_me_a_coffee-0d1117?style=for-the-badge&logo=buymeacoffee&logoColor=ffffff)](https://buymeacoffee.com/maryamyousuf)
-
 </div>
 
 ### stack
